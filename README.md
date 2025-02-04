@@ -1,4 +1,5 @@
-# Sistem Informasi Perpustakaan
+# Sistem Informasi Perpustakaan PHP NATIVE
+Untuk Tampilan Sistem Menggunakan SB Admin Bootstrap.
 Fitur yang ada pada sistem : 
 1. Tambah Data
 2. Edit Data
